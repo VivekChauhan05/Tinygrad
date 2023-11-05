@@ -43,3 +43,18 @@ output.backward()
 
 # Visualize the computation graph
 Draw(output)
+```
+
+## Get Started
+
+Whether you're new to deep learning or want to explore a minimalistic framework, Tinygrad provides an excellent starting point. Explore the code, experiment with neural networks, and visualize your models' computation graphs.
+
+## License
+
+Tinygrad is open-source and available under the [Apache License 2.0](LICENSE).
+
+Feel free to contribute, provide feedback, or report issues to help make this educational tool even better!
+
+---
+
+I would like to mention that this project is inspired by the work of [Andrej Karpathy](https://github.com/karpathy), whose contributions to the field of deep learning have been a source of inspiration and learning for many. 
