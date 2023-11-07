@@ -1,6 +1,10 @@
 # Tinygrad: A Minimalistic Deep Learning Framework
 ![Tinygrad Logo](https://github.com/VivekChauhan05/Tinygrad/assets/105151744/c28c6b76-a1fc-451d-8231-3ab58552ce43)
 
+![Tinygrad Logo](https://github.com/VivekChauhan05/Tinygrad/assets/105151744/1a813c15-2f7e-47c0-9d35-f4ccb9bd752d)
+
+
+
 Tinygrad is a lightweight deep learning framework designed for educational purposes. It offers a minimalistic implementation of automatic differentiation and neural network modules. With Tinygrad, you can learn the core concepts of deep learning while keeping your code concise and easy to understand.
 
 ## Key Features
